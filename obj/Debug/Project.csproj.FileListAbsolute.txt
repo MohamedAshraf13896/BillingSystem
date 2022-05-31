@@ -1,0 +1,171 @@
+F:\Adob LNkQ\project\Project\bin\Debug\Project.exe.config
+F:\Adob LNkQ\project\Project\bin\Debug\Project.exe
+F:\Adob LNkQ\project\Project\bin\Debug\Project.pdb
+F:\Adob LNkQ\project\Project\bin\Debug\EntityFramework.dll
+F:\Adob LNkQ\project\Project\bin\Debug\EntityFramework.SqlServer.dll
+F:\Adob LNkQ\project\Project\bin\Debug\EntityFramework.xml
+F:\Adob LNkQ\project\Project\bin\Debug\EntityFramework.SqlServer.xml
+F:\Adob LNkQ\project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+F:\Adob LNkQ\project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+F:\Adob LNkQ\project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Adob LNkQ\project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+F:\Adob LNkQ\project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\Adob LNkQ\project\Project\obj\Debug\Project.csproj.CopyComplete
+F:\Adob LNkQ\project\Project\obj\Debug\Project.exe
+F:\Adob LNkQ\project\Project\obj\Debug\Project.pdb
+F:\Adob LNkQ\project\Project\obj\Debug\Project.Migrations.v1.resources
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\bin\Debug\Project.exe.config
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\bin\Debug\Project.exe
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\bin\Debug\Project.pdb
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\bin\Debug\EntityFramework.dll
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\bin\Debug\EntityFramework.xml
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.exe
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.pdb
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.Migrations.v4.resources
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.Company_Data.resources
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.Form1.resources
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.Type_Form.resources
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.Unites_form.resources
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.homepage.resources
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.Categories.resources
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.Clients.resources
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.Report.resources
+C:\Users\Ali Ahmed\OneDrive\Desktop\assignment c#\Project\obj\Debug\Project.sales_invoice.resources
+F:\Adob LNkQ\Final Project\Project\bin\Debug\Project.exe.config
+F:\Adob LNkQ\Final Project\Project\bin\Debug\Project.exe
+F:\Adob LNkQ\Final Project\Project\bin\Debug\Project.pdb
+F:\Adob LNkQ\Final Project\Project\bin\Debug\EntityFramework.dll
+F:\Adob LNkQ\Final Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+F:\Adob LNkQ\Final Project\Project\bin\Debug\EntityFramework.xml
+F:\Adob LNkQ\Final Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.Categories.resources
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.Clients.resources
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.Company_Data.resources
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.Form1.resources
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.homepage.resources
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.Report.resources
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.sales_invoice.resources
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.Unites_form.resources
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.Type_Form.resources
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.csproj.CopyComplete
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.exe
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.pdb
+F:\Adob LNkQ\Final Project\Project\obj\Debug\Project.Migrations.v1.resources
+F:\Adob LNkQ\Shaf3e Project\Project\bin\Debug\Project.exe.config
+F:\Adob LNkQ\Shaf3e Project\Project\bin\Debug\Project.exe
+F:\Adob LNkQ\Shaf3e Project\Project\bin\Debug\Project.pdb
+F:\Adob LNkQ\Shaf3e Project\Project\bin\Debug\EntityFramework.dll
+F:\Adob LNkQ\Shaf3e Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+F:\Adob LNkQ\Shaf3e Project\Project\bin\Debug\EntityFramework.xml
+F:\Adob LNkQ\Shaf3e Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.Categories.resources
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.Clients.resources
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.Company_Data.resources
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.Form1.resources
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.homepage.resources
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.Report.resources
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.sales_invoice.resources
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.Unites_form.resources
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.Type_Form.resources
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.csproj.CopyComplete
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.exe
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.pdb
+F:\Adob LNkQ\Shaf3e Project\Project\obj\Debug\Project.Migrations.v1.resources
+F:\Adob LNkQ\Project\Shaf3e Project\Project\bin\Debug\Project.exe.config
+F:\Adob LNkQ\Project\Shaf3e Project\Project\bin\Debug\Project.exe
+F:\Adob LNkQ\Project\Shaf3e Project\Project\bin\Debug\Project.pdb
+F:\Adob LNkQ\Project\Shaf3e Project\Project\bin\Debug\EntityFramework.dll
+F:\Adob LNkQ\Project\Shaf3e Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+F:\Adob LNkQ\Project\Shaf3e Project\Project\bin\Debug\EntityFramework.xml
+F:\Adob LNkQ\Project\Shaf3e Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.Categories.resources
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.Clients.resources
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.Company_Data.resources
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.Form1.resources
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.homepage.resources
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.Report.resources
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.sales_invoice.resources
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.Unites_form.resources
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.Type_Form.resources
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.csproj.CopyComplete
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.exe
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.pdb
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.Migrations.v1.resources
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.Migrations.v4.resources
+F:\Adob LNkQ\Project\Shaf3e Project\Project\obj\Debug\Project.Migrations.v5.resources
+E:\iti manoufia\ado\Shaf3e Project\Project\bin\Debug\Project.exe.config
+E:\iti manoufia\ado\Shaf3e Project\Project\bin\Debug\Project.exe
+E:\iti manoufia\ado\Shaf3e Project\Project\bin\Debug\Project.pdb
+E:\iti manoufia\ado\Shaf3e Project\Project\bin\Debug\EntityFramework.dll
+E:\iti manoufia\ado\Shaf3e Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+E:\iti manoufia\ado\Shaf3e Project\Project\bin\Debug\EntityFramework.xml
+E:\iti manoufia\ado\Shaf3e Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.Categories.resources
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.Clients.resources
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.Company_Data.resources
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.Form1.resources
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.homepage.resources
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.Report.resources
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.sales_invoice.resources
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.Unites_form.resources
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.Type_Form.resources
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.csproj.CopyComplete
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.exe
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.pdb
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.Migrations.v1.resources
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.Migrations.v3.resources
+E:\iti manoufia\ado\Shaf3e Project\Project\obj\Debug\Project.Employee.resources
+F:\Project\bin\Debug\Project.exe.config
+F:\Project\bin\Debug\Project.exe
+F:\Project\bin\Debug\Project.pdb
+F:\Project\bin\Debug\EntityFramework.dll
+F:\Project\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project\bin\Debug\EntityFramework.xml
+F:\Project\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+F:\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+F:\Project\obj\Debug\Project.Categories.resources
+F:\Project\obj\Debug\Project.Clients.resources
+F:\Project\obj\Debug\Project.Company_Data.resources
+F:\Project\obj\Debug\Project.Employee.resources
+F:\Project\obj\Debug\Project.Form1.resources
+F:\Project\obj\Debug\Project.homepage.resources
+F:\Project\obj\Debug\Project.Report.resources
+F:\Project\obj\Debug\Project.sales_invoice.resources
+F:\Project\obj\Debug\Project.Unites_form.resources
+F:\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Project\obj\Debug\Project.Type_Form.resources
+F:\Project\obj\Debug\Project.csproj.GenerateResource.cache
+F:\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\Project\obj\Debug\Project.csproj.CopyComplete
+F:\Project\obj\Debug\Project.exe
+F:\Project\obj\Debug\Project.pdb
+F:\Project\obj\Debug\Project.Migrations.v1.resources
